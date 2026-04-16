@@ -1,0 +1,12 @@
+{
+  "name": "Repo Ayik",
+  "description": "Test plugin",
+  "manifestVersion": 1,
+  "plugins": [
+    {
+      "name": "Anichin",
+      "url": "Anichin.cs3",
+      "version": 1
+    }
+  ]
+}
