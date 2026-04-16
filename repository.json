@@ -2,11 +2,16 @@
   "name": "Repo Ayik",
   "description": "Test plugin",
   "manifestVersion": 1,
-  "plugins": [
+  "pluginLists": [
     {
-      "name": "Anichin",
-      "url": "AnichinMoe.cs3",
-      "version": 1
+      "name": "Main",
+      "plugins": [
+        {
+          "name": "Anichin",
+          "url": "AnichinMoe.cs3",
+          "version": 1
+        }
+      ]
     }
   ]
 }
