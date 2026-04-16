@@ -8,7 +8,7 @@
       "plugins": [
         {
           "name": "Anichin",
-          "url": "AnichinMoe.cs3",
+          "url": "https://raw.githubusercontent.com/USERNAME/REPO/main/AnichinMoe.cs3",
           "version": 1
         }
       ]
